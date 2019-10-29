@@ -10,8 +10,6 @@
     </div>
     <Card :cardValues="cardValues"/>
     <br>
-
-
   </div>
 </template>
 

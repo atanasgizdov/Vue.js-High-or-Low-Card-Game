@@ -1,29 +1,13 @@
-# project1-simple-card-game
+# Project 2
++ By: Atanas Gizdov
++ Production URL: http://project2.naskogizdov.com/
 
-## Project setup
-```
-npm install
-```
+## Build strategy
++ [ ] Integrated
++ [X] Comprehensive
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Outside resources
+My main resource was using the Vue.js documentation
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Notes for instructor
+Per our e-mail, I'm submitting my P1 project with various updates for both quality and to integrate feedback
